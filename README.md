@@ -1,5 +1,5 @@
 # SecurityNet
-This is the official repository for our USENIX Security Symposium 2024 paper ["SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models"](https://arxiv.org/abs/2310.12665).
+This is the official repository for our USENIX Security Symposium 2024 paper ["SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models"](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-boyang).
 
 ## Introduction  
 
